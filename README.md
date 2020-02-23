@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This repository is built for Coursera Capstone Project purpose
+# Data Science IBM - capstone project
+This repository is built for Capstone Project of IBM Data Science Professional Certificate
